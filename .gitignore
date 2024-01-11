@@ -45,4 +45,4 @@ lib
 es
 build
 .i18n
-.i18n.*
+.i18n.*/node_modules/
